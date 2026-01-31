@@ -2,9 +2,11 @@
 Mi primer Repositorio Platzi
 
 
-mi primera contribucion local para Github 
+mi primera contribution local para Github 
 
 
-un commmit mas desde Github
+un commit mas desde Github
 
 un commit màs "aprendiendo git fetch"
+
+cambios desde mi rama local llamada developer01
